@@ -1,0 +1,1 @@
+this is done after the clone to clone just go to the renote and paste the code in git bash (git clone paste the code from the remote)
